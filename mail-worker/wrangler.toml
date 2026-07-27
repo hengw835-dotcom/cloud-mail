@@ -33,7 +33,7 @@ crons = ["0 16 * * *"]
 
 [vars]
 domain = ["wangheng0300.xyz"]
-admin = "Hengw835@gmail.com"
+admin = "admin@wangheng0300.xyz"
 
 #ai_model = ""
 #analysis_cache = false
